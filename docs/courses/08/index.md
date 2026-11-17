@@ -11,7 +11,7 @@ outline: [2, 3]
 
 这节课讲 WorkBuddy 的自动化：设置一次，让它到点自动开工——以「每周教学周报」为例。
 
-<p class="attach-missing">📦 「19集自动化，让AI每天按时帮你干活.mp4」47 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/A7RGzDHXsM" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（47 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

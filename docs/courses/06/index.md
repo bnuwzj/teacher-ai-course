@@ -11,7 +11,7 @@ outline: [2, 3]
 
 这节课讲怎么用 AI 填表：课题申报书、评优评审表、学习台账、迎检材料，先把规则喂进去，再让它写。
 
-<p class="attach-missing">📦 「18集_填表申报与材料整理.mp4」63 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/A9x1sapZdl" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（63 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

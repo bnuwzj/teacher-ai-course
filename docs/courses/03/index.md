@@ -11,7 +11,7 @@ outline: [2, 3]
 
 教案写完只是第一步，做课件才是真磨人？把找图排版这两小时，交给它。
 
-<p class="attach-missing">📦 「7集_从教案到课件.mp4」48 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/A1EIP2epeu" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（48 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

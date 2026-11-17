@@ -11,7 +11,7 @@ outline: [2, 3]
 
 这节课讲怎么用 AI 读长文件：政策文件、参考文献、培训材料，都能先啃一遍再决定要不要细看。
 
-<p class="attach-missing">📦 「15集_读长文件：政策论文速读.mov」83 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AXYQDyV5hN" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（83 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

@@ -9,7 +9,7 @@ outline: [2, 3]
 
 <div class="lesson-meta">👩‍🏫 主讲：周馨玥 · 江南大学联通主义学习研究团队 · 📎 附件 10 个（图片 10 · 文档 0）</div>
 
-<p class="attach-missing">📦 「8集_分层作业与随堂测.mp4」85 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/Ah3G9LZZJe" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（85 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

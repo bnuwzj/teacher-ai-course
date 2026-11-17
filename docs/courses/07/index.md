@@ -11,7 +11,7 @@ outline: [2, 3]
 
 这节课讲怎么用 AI 完成从成绩表到教学决定的完整流程。
 
-<p class="attach-missing">📦 「14集成绩统计与分析.mp4」69 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AADRYCve5C" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（69 MB · 微信视频号）</a></p>
 
 ## 零、功能在哪里：WorkBuddy 界面速览
 

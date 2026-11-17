@@ -11,7 +11,7 @@ outline: [2, 3]
 
 一个好方法不该只留在一个人的电脑里——把技能做成工具传出去，才是真正的传帮带。
 
-<p class="attach-missing">📦 「23集技能共享全组一键复用.mp4」50 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AAInlfQ2QR" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（50 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

@@ -11,7 +11,7 @@ outline: [2, 3]
 
 这节课讲 Skill（技能）：把常用的标准、步骤和工具固定下来，下次遇到同类任务，不用从头解释。
 
-<p class="attach-missing">📦 「22集_把常用操作变为一键调用.mp4」81 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AwJdVnln0h" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（81 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

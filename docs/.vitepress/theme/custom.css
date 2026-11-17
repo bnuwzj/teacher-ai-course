@@ -75,6 +75,28 @@
   margin: 14px 0;
 }
 
+/* 视频观看入口：做成实心按钮，比附件胶囊更醒目 */
+.vp-doc .video-link {
+  margin: 18px 0;
+}
+.vp-doc .video-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 20px;
+  border-radius: 999px;
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+.vp-doc .video-link a:hover {
+  background: var(--vp-c-brand-2);
+  color: #fff;
+}
+
 /* 长提示词不要横向溢出：自动换行，别让人左右拖 */
 .vp-doc div[class*="language-"] pre,
 .vp-doc div[class*="language-"] code {

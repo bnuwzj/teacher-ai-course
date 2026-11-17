@@ -11,7 +11,7 @@ outline: [2, 3]
 
 通勤路上、开会途中，手机上发一句话，电脑上的 WorkBuddy 就开工。
 
-<p class="attach-missing">📦 「24多端接入手机电脑都能用.mp4」40 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AXc402VEfn" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（40 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 

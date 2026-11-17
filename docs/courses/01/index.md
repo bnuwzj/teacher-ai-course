@@ -11,7 +11,7 @@ outline: [2, 3]
 
 教研员明天来听课？教材改版？想创新性地上一节课？把「写教案」变成「改教案」。
 
-<p class="attach-missing">📦 「6集_一分钟生成教案.mp4」68 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AnVYxvgXAF" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（68 MB · 微信视频号）</a></p>
 
 ## 一、这些场景你肯定遇到过
 

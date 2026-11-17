@@ -13,7 +13,7 @@ outline: [2, 3]
 
 AI 教学课程 · 第 25 集
 
-<p class="attach-missing">📦 「25集_知识库与连接器.mp4」58 MB，体积超限未放入仓库，请从课程平台获取。</p>
+<p class="video-link"><a href="https://weixin.qq.com/sph/AJk9rMlWHH" target="_blank" rel="noopener noreferrer">▶ 观看本课视频（58 MB · 微信视频号）</a></p>
 
 ## 一、先说痛点
 
