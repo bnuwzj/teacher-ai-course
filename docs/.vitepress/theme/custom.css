@@ -1,0 +1,95 @@
+/* ── 课程页排版 ── */
+/* 完整标题做成副标题：H1 保持一行，长句不折行 */
+.vp-doc .lesson-subtitle {
+  font-size: 15px;
+  line-height: 1.6;
+  font-weight: 500;
+  color: var(--vp-c-text-2);
+  margin: -8px 0 20px;
+}
+
+.vp-doc .lesson-meta {
+  display: block;
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-soft);
+  border-left: 3px solid var(--vp-c-brand-1);
+  border-radius: 0 8px 8px 0;
+  padding: 10px 14px;
+  margin: 16px 0 28px;
+}
+
+/* 截图类配图：细边框 + 圆角；超高截图先缩到 700px 高，点开再看全图 */
+.vp-doc p > img {
+  display: block;
+  margin: 0 auto;
+  max-height: 700px;
+  width: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: #fff;
+}
+
+/* 图注：小字、居中、贴近图片 */
+.vp-doc .fig-caption {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--vp-c-text-3);
+  text-align: center;
+  margin: -10px 0 26px;
+}
+
+/* 附件下载：胶囊按钮，别让长文件名把列表撑乱 */
+.vp-doc a[download] {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  max-width: 100%;
+  padding: 3px 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  font-size: 13px;
+  line-height: 1.6;
+  text-decoration: none;
+  background: var(--vp-c-bg-soft);
+  transition: border-color 0.2s, color 0.2s;
+}
+.vp-doc a[download]:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+.vp-doc a[download]::before {
+  content: "⬇";
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+/* 未入库的大附件 */
+.vp-doc .attach-missing {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+  background: var(--vp-c-bg-soft);
+  border: 1px dashed var(--vp-c-divider);
+  border-radius: 8px;
+  padding: 8px 14px;
+  margin: 14px 0;
+}
+
+/* 长提示词不要横向溢出：自动换行，别让人左右拖 */
+.vp-doc div[class*="language-"] pre,
+.vp-doc div[class*="language-"] code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* 目录表里的灰色完整标题 */
+.vp-doc .t-muted {
+  font-size: 12px;
+  color: var(--vp-c-text-3);
+  font-weight: 400;
+}
+
+/* 侧边栏：短标题一行放得下 */
+.VPSidebarItem .text {
+  line-height: 1.5;
+}
