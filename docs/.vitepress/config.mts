@@ -19,6 +19,8 @@ function courseAssets(md) {
         const file = fileURLToPath(new URL('../public/' + relative, import.meta.url))
         if (!existsSync(file)) throw new Error('Missing course resource: ' + relative)
         if (rule === 'link_open') {
+          token.attrSet('class', 'file-chip')
+          // 必须带 download：否则 VitePress 会把站内路径再拼一次 base，变成 /repo/repo/...
           token.attrSet('download', '')
           token.attrSet('href', baseConfig + relative)
         } else {

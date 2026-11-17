@@ -40,7 +40,7 @@
 }
 
 /* 附件下载：胶囊按钮，别让长文件名把列表撑乱 */
-.vp-doc a[download] {
+.vp-doc a.file-chip {
   display: inline-flex;
   align-items: center;
   gap: 4px;
@@ -54,11 +54,11 @@
   background: var(--vp-c-bg-soft);
   transition: border-color 0.2s, color 0.2s;
 }
-.vp-doc a[download]:hover {
+.vp-doc a.file-chip:hover {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
 }
-.vp-doc a[download]::before {
+.vp-doc a.file-chip::before {
   content: "⬇";
   font-size: 11px;
   opacity: 0.6;
