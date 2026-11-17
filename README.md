@@ -10,8 +10,6 @@
 
 </div>
 
-> 排版参考 [datawhalechina/hello-ai](https://github.com/datawhalechina/hello-ai)。
-
 ## 在线学习
 
 `https://bnuwzj.github.io/teacher-ai-course/courses/`
@@ -59,6 +57,6 @@ teacher-ai-course/
 
 ## 内容说明
 
-- 课程内容由 江南大学联通主义学习研究团队 提供，本站为教学归档。
-- 视频等大体积素材未放入仓库，正文里保留了说明位。
+- 课程内容由 江南大学联通主义学习研究团队 提供，共 11 讲。
+- 视频以微信视频号外链提供，点击课程页内的「观看本课视频」即可。
 - 文字与图片版权归原作者所有，按 CC BY-NC-SA 4.0 使用。
